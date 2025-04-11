@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Postgress", "DataAccess.Postgress\DataAccess.Postgress.csproj", "{33337BCD-8639-4BE9-9FDE-558BA44676D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApi", "AspNetCoreWebApi\AspNetCoreWebApi.csproj", "{66370C80-45DD-41C8-AC0D-F1C97A1A5F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33337BCD-8639-4BE9-9FDE-558BA44676D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33337BCD-8639-4BE9-9FDE-558BA44676D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33337BCD-8639-4BE9-9FDE-558BA44676D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33337BCD-8639-4BE9-9FDE-558BA44676D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66370C80-45DD-41C8-AC0D-F1C97A1A5F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66370C80-45DD-41C8-AC0D-F1C97A1A5F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66370C80-45DD-41C8-AC0D-F1C97A1A5F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66370C80-45DD-41C8-AC0D-F1C97A1A5F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C6575C-5229-40DF-B26D-E0B184B71F6D}
+	EndGlobalSection
+EndGlobal
