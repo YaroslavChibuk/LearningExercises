@@ -4,5 +4,11 @@ Sandbox for learning technologies, patterns, C# language
 items: 
 
 -- Abstract Factory:
+   https://refactoring.guru/design-patterns/abstract-factory
    Abstract Factory is a creational design pattern, which solves the problem of creating 
    entire product families without specifying their concrete classes.
+   
+-- Factory Method:
+   https://refactoring.guru/design-patterns/factory-method
+   Factory Method is a creational design pattern that provides an interface for creating 
+   objects in a superclass, but allows subclasses to alter the type of objects that will be created.
