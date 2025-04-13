@@ -18,3 +18,5 @@ items:
    objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
 -- Entity Framework Core Demo
+
+-- The maximum clique problem is a classic NP-hard problem in graph theory. 

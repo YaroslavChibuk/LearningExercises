@@ -10,3 +10,6 @@
 /EntityFrameworkCoreDemo/AspNetCoreWebApi/obj
 /EntityFrameworkCoreDemo/DataAccess.Postgress/bin/Debug/net9.0
 /EntityFrameworkCoreDemo/DataAccess.Postgress/obj
+/MaxCliqueFinder/.vs/MaxCliqueFinder
+/MaxCliqueFinder/obj
+/MaxCliqueFinder/bin/Debug/net9.0
