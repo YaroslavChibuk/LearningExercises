@@ -30,3 +30,5 @@
 /DesignPatterns/Bridge/obj
 /DesignPatterns/Mediator/bin/Debug/net8.0
 /DesignPatterns/Mediator/obj
+/DesignPatterns/AbstractFactory/bin/Debug/net9.0
+/DesignPatterns/AbstractFactory/obj
